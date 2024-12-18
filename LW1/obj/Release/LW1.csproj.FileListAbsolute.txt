@@ -1,0 +1,9 @@
+C:\Users\dsunt\Desktop\C#\LW1\bin\Release\L1_31.txt
+C:\Users\dsunt\Desktop\C#\LW1\bin\Release\L1_32.txt
+C:\Users\dsunt\Desktop\C#\LW1\bin\Release\LW1.exe.config
+C:\Users\dsunt\Desktop\C#\LW1\bin\Release\LW1.exe
+C:\Users\dsunt\Desktop\C#\LW1\bin\Release\LW1.pdb
+C:\Users\dsunt\Desktop\C#\LW1\obj\Release\LW1.csproj.AssemblyReference.cache
+C:\Users\dsunt\Desktop\C#\LW1\obj\Release\LW1.csproj.CoreCompileInputs.cache
+C:\Users\dsunt\Desktop\C#\LW1\obj\Release\LW1.exe
+C:\Users\dsunt\Desktop\C#\LW1\obj\Release\LW1.pdb
